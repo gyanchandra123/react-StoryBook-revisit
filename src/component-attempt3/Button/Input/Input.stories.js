@@ -11,3 +11,4 @@ export const LargeInput = ()=> <Input variant='large' placeholder='input larger 
 export const MediumInput = ()=> <Input variant='medium' placeholder='input medium size'/>
 export const SmallInput = ()=> <Input variant='small' placeholder='input small size'/>
 
+SmallInput.storyName ='small input-box'
